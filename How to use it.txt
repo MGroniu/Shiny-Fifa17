@@ -1,0 +1,6 @@
+Here is instruction how to use this shiny app.
+1. Download all files from this folder.
+2. Open file "Data and libaries" it will download all
+necessary libraries and set your working directory.
+3. Open Server.R and ui.R and turn on app.
+4. Have fun with clustering the data! :)
